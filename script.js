@@ -2,7 +2,7 @@
 const produtos = [
   { nome: "Violão acústico", preco: 899.90 },
   { nome: "Teclado 61 teclas", preco: 1249.00 },
-  { nome: "Bateria", preco: 349.90 }
+  { nome: "Bateria", preco: 2499.00 }
 ];
 
 // Formata um número como moeda brasileira

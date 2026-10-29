@@ -3,7 +3,7 @@
 Projeto do **Desafio 1** da trilha **Desenvolvimento Mobile** (Programa Trilhas 2026).
 Modalidade individual.
 
-**Aluno:** RUBENS SOUSA DOS SANTOS
+**Aluno:** Rubens Sousa dos Santos
 
 ## Sobre o projeto
 
@@ -15,7 +15,7 @@ A **Rubens Music** é uma loja fictícia de instrumentos musicais. A página apr
 |---|---|---|
 | Violão acústico | Cordas de aço, acabamento brilhante, ótimo para iniciantes | R$ 899,90 |
 | Teclado 61 teclas | Sons variados, ritmos prontos e função de gravação | R$ 1.249,00 |
-| Cajón | Percussão em madeira, ideal para rodas de samba e voz e violão | R$ 349,90 |
+| Bateria | Bateria acústica de 5 peças com pratos, pedal e banco | R$ 2.499,00 |
 
 ## Como usar
 
